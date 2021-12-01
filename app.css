@@ -1,0 +1,47 @@
+
+
+.container{
+    text-align: center;
+    margin-top: 50vh;
+}
+
+.button{
+    
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(197, 193, 193);
+}
+.colorName{
+    color:white;
+}
+
+.turquoise{
+    background-color: turquoise;
+}
+.yellow{
+    background-color: yellow;
+}
+.gray{
+    background-color: gray;
+}
+.red{
+    background-color: red;
+}
+.white{
+    background-color: white;
+}
+.wheat{
+    background-color: wheat;
+}
+.blue{
+    background-color: blue;
+}
+.black{
+    background-color: black;
+}
+.brown{
+    background-color: brown;
+}
+.orange{
+    background-color: orange;
+}
